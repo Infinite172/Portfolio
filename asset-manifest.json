@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c7910b00.css",
+    "main.js": "/Portfolio/static/js/main.54ce06c5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.6d534c9503ae55a1fbe1.jpg",
+    "static/media/Image3.jpg": "/Portfolio/static/media/Image3.74f702e58fefc8f540c6.jpg",
+    "static/media/aboutimg.jpg": "/Portfolio/static/media/aboutimg.5c51d5fd40a8b8e8b9ec.jpg",
+    "static/media/Image2.jpg": "/Portfolio/static/media/Image2.298552c85fc3a3591270.jpg",
+    "static/media/Image1.jpg": "/Portfolio/static/media/Image1.161d39da7a132ba33f9a.jpg",
+    "static/media/Pranish-CV.pdf": "/Portfolio/static/media/Pranish-CV.8ab514d4141dd21e5912.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.c7910b00.css.map": "/Portfolio/static/css/main.c7910b00.css.map",
+    "main.54ce06c5.js.map": "/Portfolio/static/js/main.54ce06c5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7910b00.css",
+    "static/js/main.54ce06c5.js"
+  ]
+}
